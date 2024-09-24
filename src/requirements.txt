@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+matplotlib
+nemosis
+glob
+datetime
+plotly
+streamlit
+fastparquet
+pyarrow
